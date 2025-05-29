@@ -1,0 +1,11 @@
+C:\Users\thoma\source\repos\_projects\Vector2\bin\Debug\net9.0\Vector2.deps.json
+C:\Users\thoma\source\repos\_projects\Vector2\bin\Debug\net9.0\Vector2.dll
+C:\Users\thoma\source\repos\_projects\Vector2\bin\Debug\net9.0\Vector2.pdb
+C:\Users\thoma\source\repos\_projects\Vector2\obj\Debug\net9.0\Vector2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\source\repos\_projects\Vector2\obj\Debug\net9.0\Vector2.AssemblyInfoInputs.cache
+C:\Users\thoma\source\repos\_projects\Vector2\obj\Debug\net9.0\Vector2.AssemblyInfo.cs
+C:\Users\thoma\source\repos\_projects\Vector2\obj\Debug\net9.0\Vector2.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\_projects\Vector2\obj\Debug\net9.0\Vector2.dll
+C:\Users\thoma\source\repos\_projects\Vector2\obj\Debug\net9.0\refint\Vector2.dll
+C:\Users\thoma\source\repos\_projects\Vector2\obj\Debug\net9.0\Vector2.pdb
+C:\Users\thoma\source\repos\_projects\Vector2\obj\Debug\net9.0\ref\Vector2.dll
