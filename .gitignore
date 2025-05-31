@@ -1,0 +1,7 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/C#/.NET Framework 4.7.2/FileInfoExtension/src_Code/obj/Debug
+/C#/.NET Framework 4.7.2/FileInfoExtension/src_Code/.vs/FileInfoExt_NET_Framework_472/CopilotIndices/17.14.670.39694
+/C#/.NET Framework 4.7.2/FileInfoExtension/src_Code/bin/Debug

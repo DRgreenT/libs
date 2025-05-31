@@ -222,6 +222,16 @@ public class FileInfoExt
         return filePathsResult.ToArray();
     }
 
+    /// <summary>
+    /// Get the file name of a given path string.
+    /// </summary>
+    /// <param name="path">Path to file</param>
+    /// <returns>Returns the filename of a given file path.</returns>
+    public static string GetFileName(string path)
+    {
+        FileInfo newInfo = new FileInfo(path);
+        return newInfo.Name;
+    }
 
     /// <summary>
     /// Gets all file names from a specified folder, optionally filtered by file extensions.
