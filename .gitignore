@@ -11,6 +11,11 @@ obj/
 *.user
 *.suo
 
+# DebugInfo
+*.json
+*.pdb
+*.deps
+
 # Build-Output erlauben (z. B. DLLs und NuGet-Pakete im build-Ordner)
 !build/
 !build/**
