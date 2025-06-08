@@ -7,7 +7,7 @@ using System.Collections.Generic;
 /// Extended file information and utility class for file operations 
 /// </summary>
 /// <remarks>
-/// Version 2025-06-08
+/// Version 2025-06-09
 /// </remarks>
 public class FileInfoExt
 {
@@ -308,6 +308,11 @@ public class FileInfoExt
     {
         try
         {
+            if (File.Exists(path))
+            {
+                throw new IOException($"Cannot create directory '{path}': A file with the same name already exists.");
+            }
+
             if (!Directory.Exists(path))
             {
                 Directory.CreateDirectory(path);
