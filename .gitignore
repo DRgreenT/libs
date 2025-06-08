@@ -2,10 +2,23 @@
 # Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
 ################################################################################
 
+# Build-Ordner von Visual Studio
 bin/
 obj/
 .vs/
+
+# Benutzer- und Sitzungsdateien
 *.user
 *.suo
 
-!build/**/*
+# Build-Output erlauben (z. B. DLLs und NuGet-Pakete im build-Ordner)
+!build/
+!build/**
+
+# Quellcode behalten
+!src/**/*.cs
+!src/**/*.csproj
+
+# Readme, Lizenzen und sonstige wichtige Dateien erlauben
+!README.md
+!LICENSE*
